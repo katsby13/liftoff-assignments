@@ -8,12 +8,26 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Linked pdf includes five formal wireframes and one flow chart in this order:
+
+-Flow chart
+
+-Search page
+
+-Home page
+
+-Favorite pets page
+
+-Pet details page
+
+-Login/registration page
+
+https://github.com/katsby13/liftoff-assignments/blob/master/P3-Project_Planning/LiftOff.pdf
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/t6j9ndf9/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/JuanJSoto/Project-Liftoff/tree/master/Downloads/LAUNCHCODE/project-liftoff
